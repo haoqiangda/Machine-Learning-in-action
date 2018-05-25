@@ -1,0 +1,269 @@
+fullSet, iter: 0 i:0, pairs changed 1
+fullSet, iter: 0 i:1, pairs changed 1
+fullSet, iter: 0 i:2, pairs changed 2
+fullSet, iter: 0 i:3, pairs changed 2
+fullSet, iter: 0 i:4, pairs changed 3
+fullSet, iter: 0 i:5, pairs changed 4
+fullSet, iter: 0 i:6, pairs changed 5
+fullSet, iter: 0 i:7, pairs changed 6
+fullSet, iter: 0 i:8, pairs changed 7
+fullSet, iter: 0 i:9, pairs changed 7
+L==H
+fullSet, iter: 0 i:10, pairs changed 7
+fullSet, iter: 0 i:11, pairs changed 7
+fullSet, iter: 0 i:12, pairs changed 7
+fullSet, iter: 0 i:13, pairs changed 8
+j not moving enough
+fullSet, iter: 0 i:14, pairs changed 8
+fullSet, iter: 0 i:15, pairs changed 8
+j not moving enough
+fullSet, iter: 0 i:16, pairs changed 8
+fullSet, iter: 0 i:17, pairs changed 8
+fullSet, iter: 0 i:18, pairs changed 8
+j not moving enough
+fullSet, iter: 0 i:19, pairs changed 8
+fullSet, iter: 0 i:20, pairs changed 8
+fullSet, iter: 0 i:21, pairs changed 8
+fullSet, iter: 0 i:22, pairs changed 8
+fullSet, iter: 0 i:23, pairs changed 8
+fullSet, iter: 0 i:24, pairs changed 8
+fullSet, iter: 0 i:25, pairs changed 8
+fullSet, iter: 0 i:26, pairs changed 8
+fullSet, iter: 0 i:27, pairs changed 8
+fullSet, iter: 0 i:28, pairs changed 8
+fullSet, iter: 0 i:29, pairs changed 8
+fullSet, iter: 0 i:30, pairs changed 8
+L==H
+fullSet, iter: 0 i:31, pairs changed 8
+fullSet, iter: 0 i:32, pairs changed 8
+fullSet, iter: 0 i:33, pairs changed 8
+fullSet, iter: 0 i:34, pairs changed 8
+fullSet, iter: 0 i:35, pairs changed 8
+fullSet, iter: 0 i:36, pairs changed 8
+fullSet, iter: 0 i:37, pairs changed 8
+fullSet, iter: 0 i:38, pairs changed 8
+fullSet, iter: 0 i:39, pairs changed 8
+fullSet, iter: 0 i:40, pairs changed 8
+j not moving enough
+fullSet, iter: 0 i:41, pairs changed 8
+fullSet, iter: 0 i:42, pairs changed 8
+fullSet, iter: 0 i:43, pairs changed 8
+fullSet, iter: 0 i:44, pairs changed 8
+fullSet, iter: 0 i:45, pairs changed 8
+fullSet, iter: 0 i:46, pairs changed 8
+j not moving enough
+fullSet, iter: 0 i:47, pairs changed 8
+fullSet, iter: 0 i:48, pairs changed 8
+fullSet, iter: 0 i:49, pairs changed 8
+L==H
+fullSet, iter: 0 i:50, pairs changed 8
+fullSet, iter: 0 i:51, pairs changed 8
+L==H
+fullSet, iter: 0 i:52, pairs changed 8
+fullSet, iter: 0 i:53, pairs changed 8
+fullSet, iter: 0 i:54, pairs changed 8
+j not moving enough
+fullSet, iter: 0 i:55, pairs changed 8
+fullSet, iter: 0 i:56, pairs changed 8
+L==H
+fullSet, iter: 0 i:57, pairs changed 8
+fullSet, iter: 0 i:58, pairs changed 8
+fullSet, iter: 0 i:59, pairs changed 8
+fullSet, iter: 0 i:60, pairs changed 8
+fullSet, iter: 0 i:61, pairs changed 8
+fullSet, iter: 0 i:62, pairs changed 8
+fullSet, iter: 0 i:63, pairs changed 8
+fullSet, iter: 0 i:64, pairs changed 8
+fullSet, iter: 0 i:65, pairs changed 8
+L==H
+fullSet, iter: 0 i:66, pairs changed 8
+fullSet, iter: 0 i:67, pairs changed 8
+fullSet, iter: 0 i:68, pairs changed 8
+fullSet, iter: 0 i:69, pairs changed 8
+fullSet, iter: 0 i:70, pairs changed 8
+fullSet, iter: 0 i:71, pairs changed 8
+fullSet, iter: 0 i:72, pairs changed 8
+fullSet, iter: 0 i:73, pairs changed 8
+fullSet, iter: 0 i:74, pairs changed 8
+L==H
+fullSet, iter: 0 i:75, pairs changed 8
+fullSet, iter: 0 i:76, pairs changed 8
+fullSet, iter: 0 i:77, pairs changed 8
+fullSet, iter: 0 i:78, pairs changed 8
+fullSet, iter: 0 i:79, pairs changed 8
+L==H
+fullSet, iter: 0 i:80, pairs changed 8
+fullSet, iter: 0 i:81, pairs changed 8
+fullSet, iter: 0 i:82, pairs changed 8
+fullSet, iter: 0 i:83, pairs changed 9
+j not moving enough
+fullSet, iter: 0 i:84, pairs changed 9
+fullSet, iter: 0 i:85, pairs changed 9
+fullSet, iter: 0 i:86, pairs changed 10
+fullSet, iter: 0 i:87, pairs changed 10
+j not moving enough
+fullSet, iter: 0 i:88, pairs changed 10
+fullSet, iter: 0 i:89, pairs changed 10
+fullSet, iter: 0 i:90, pairs changed 10
+fullSet, iter: 0 i:91, pairs changed 10
+fullSet, iter: 0 i:92, pairs changed 10
+fullSet, iter: 0 i:93, pairs changed 10
+fullSet, iter: 0 i:94, pairs changed 10
+fullSet, iter: 0 i:95, pairs changed 10
+fullSet, iter: 0 i:96, pairs changed 10
+fullSet, iter: 0 i:97, pairs changed 10
+fullSet, iter: 0 i:98, pairs changed 10
+fullSet, iter: 0 i:99, pairs changed 10
+iteration number: 1
+j not moving enough
+non-bound, iter: 1 i:4, pairs changed 0
+j not moving enough
+non-bound, iter: 1 i:6, pairs changed 0
+j not moving enough
+non-bound, iter: 1 i:7, pairs changed 0
+j not moving enough
+non-bound, iter: 1 i:8, pairs changed 0
+j not moving enough
+non-bound, iter: 1 i:13, pairs changed 0
+non-bound, iter: 1 i:75, pairs changed 0
+j not moving enough
+non-bound, iter: 1 i:80, pairs changed 0
+j not moving enough
+non-bound, iter: 1 i:83, pairs changed 0
+non-bound, iter: 1 i:86, pairs changed 0
+iteration number: 2
+fullSet, iter: 2 i:0, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:1, pairs changed 0
+fullSet, iter: 2 i:2, pairs changed 0
+fullSet, iter: 2 i:3, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:4, pairs changed 0
+fullSet, iter: 2 i:5, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:6, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:7, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:8, pairs changed 0
+fullSet, iter: 2 i:9, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:10, pairs changed 0
+fullSet, iter: 2 i:11, pairs changed 0
+fullSet, iter: 2 i:12, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:13, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:14, pairs changed 0
+fullSet, iter: 2 i:15, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:16, pairs changed 0
+fullSet, iter: 2 i:17, pairs changed 0
+fullSet, iter: 2 i:18, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:19, pairs changed 0
+fullSet, iter: 2 i:20, pairs changed 0
+fullSet, iter: 2 i:21, pairs changed 0
+fullSet, iter: 2 i:22, pairs changed 0
+fullSet, iter: 2 i:23, pairs changed 0
+fullSet, iter: 2 i:24, pairs changed 0
+fullSet, iter: 2 i:25, pairs changed 0
+fullSet, iter: 2 i:26, pairs changed 0
+fullSet, iter: 2 i:27, pairs changed 0
+fullSet, iter: 2 i:28, pairs changed 0
+fullSet, iter: 2 i:29, pairs changed 0
+fullSet, iter: 2 i:30, pairs changed 0
+L==H
+fullSet, iter: 2 i:31, pairs changed 0
+fullSet, iter: 2 i:32, pairs changed 0
+fullSet, iter: 2 i:33, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:34, pairs changed 0
+fullSet, iter: 2 i:35, pairs changed 0
+fullSet, iter: 2 i:36, pairs changed 0
+fullSet, iter: 2 i:37, pairs changed 0
+fullSet, iter: 2 i:38, pairs changed 0
+fullSet, iter: 2 i:39, pairs changed 0
+fullSet, iter: 2 i:40, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:41, pairs changed 0
+fullSet, iter: 2 i:42, pairs changed 0
+fullSet, iter: 2 i:43, pairs changed 0
+fullSet, iter: 2 i:44, pairs changed 0
+fullSet, iter: 2 i:45, pairs changed 0
+fullSet, iter: 2 i:46, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:47, pairs changed 0
+fullSet, iter: 2 i:48, pairs changed 0
+fullSet, iter: 2 i:49, pairs changed 0
+fullSet, iter: 2 i:50, pairs changed 0
+fullSet, iter: 2 i:51, pairs changed 0
+fullSet, iter: 2 i:52, pairs changed 0
+fullSet, iter: 2 i:53, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:54, pairs changed 0
+L==H
+fullSet, iter: 2 i:55, pairs changed 0
+fullSet, iter: 2 i:56, pairs changed 0
+L==H
+fullSet, iter: 2 i:57, pairs changed 0
+fullSet, iter: 2 i:58, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:59, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:60, pairs changed 0
+fullSet, iter: 2 i:61, pairs changed 0
+fullSet, iter: 2 i:62, pairs changed 0
+fullSet, iter: 2 i:63, pairs changed 0
+fullSet, iter: 2 i:64, pairs changed 0
+fullSet, iter: 2 i:65, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:66, pairs changed 0
+fullSet, iter: 2 i:67, pairs changed 0
+fullSet, iter: 2 i:68, pairs changed 0
+fullSet, iter: 2 i:69, pairs changed 0
+fullSet, iter: 2 i:70, pairs changed 0
+fullSet, iter: 2 i:71, pairs changed 0
+fullSet, iter: 2 i:72, pairs changed 0
+fullSet, iter: 2 i:73, pairs changed 0
+fullSet, iter: 2 i:74, pairs changed 0
+fullSet, iter: 2 i:75, pairs changed 0
+fullSet, iter: 2 i:76, pairs changed 0
+fullSet, iter: 2 i:77, pairs changed 0
+fullSet, iter: 2 i:78, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:79, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:80, pairs changed 0
+fullSet, iter: 2 i:81, pairs changed 0
+fullSet, iter: 2 i:82, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:83, pairs changed 0
+fullSet, iter: 2 i:84, pairs changed 0
+fullSet, iter: 2 i:85, pairs changed 0
+fullSet, iter: 2 i:86, pairs changed 0
+fullSet, iter: 2 i:87, pairs changed 0
+j not moving enough
+fullSet, iter: 2 i:88, pairs changed 0
+fullSet, iter: 2 i:89, pairs changed 0
+fullSet, iter: 2 i:90, pairs changed 0
+fullSet, iter: 2 i:91, pairs changed 0
+fullSet, iter: 2 i:92, pairs changed 0
+fullSet, iter: 2 i:93, pairs changed 0
+fullSet, iter: 2 i:94, pairs changed 0
+fullSet, iter: 2 i:95, pairs changed 0
+fullSet, iter: 2 i:96, pairs changed 0
+fullSet, iter: 2 i:97, pairs changed 0
+fullSet, iter: 2 i:98, pairs changed 0
+fullSet, iter: 2 i:99, pairs changed 0
+iteration number: 3
+[[ 4.02136868]]----------为所求的b值
+[[ 0.6         0.06848766  0.6         0.03023278  0.27072901  0.17093953
+   0.00106904  0.12287956  0.15223557  0.15223557  0.12287956]]   -----------为所有的大于0的alpha的值，也就是支持向量的值
+[[ 0.34400897]
+ [-0.70929196]]-----根据alpha的值求出w的值
+[[-5.95241535]]-----第一个数据点的分类，因为为负值，故分为-1
+-1.0
+[[ 0.23415521]]------第二个数据点的分类，因为为正值，故分为+1
+1.0
+[Finished in 0.6s]-----可以看到时间明显缩短了

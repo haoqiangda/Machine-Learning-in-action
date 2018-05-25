@@ -1,0 +1,64 @@
+[[ 0.2]
+ [ 0.2]
+ [ 0.2]
+ [ 0.2]
+ [ 0.2]]
+split: dim 0,j=-1, rangeMin=1,rangeMax=2,thresh 0.90, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=-1, rangeMin=1,rangeMax=2,thresh 0.90, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=0, rangeMin=1,rangeMax=2,thresh 1.00, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=0, rangeMin=1,rangeMax=2,thresh 1.00, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=1, rangeMin=1,rangeMax=2,thresh 1.10, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=1, rangeMin=1,rangeMax=2,thresh 1.10, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=2, rangeMin=1,rangeMax=2,thresh 1.20, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=2, rangeMin=1,rangeMax=2,thresh 1.20, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=3, rangeMin=1,rangeMax=2,thresh 1.30, thresh ineqal: lt, the weighted error is 0.200
+split: dim 0,j=3, rangeMin=1,rangeMax=2,thresh 1.30, thresh ineqal: gt, the weighted error is 0.800
+split: dim 0,j=4, rangeMin=1,rangeMax=2,thresh 1.40, thresh ineqal: lt, the weighted error is 0.200
+split: dim 0,j=4, rangeMin=1,rangeMax=2,thresh 1.40, thresh ineqal: gt, the weighted error is 0.800
+split: dim 0,j=5, rangeMin=1,rangeMax=2,thresh 1.50, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=5, rangeMin=1,rangeMax=2,thresh 1.50, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=6, rangeMin=1,rangeMax=2,thresh 1.60, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=6, rangeMin=1,rangeMax=2,thresh 1.60, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=7, rangeMin=1,rangeMax=2,thresh 1.70, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=7, rangeMin=1,rangeMax=2,thresh 1.70, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=8, rangeMin=1,rangeMax=2,thresh 1.80, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=8, rangeMin=1,rangeMax=2,thresh 1.80, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=9, rangeMin=1,rangeMax=2,thresh 1.90, thresh ineqal: lt, the weighted error is 0.400
+split: dim 0,j=9, rangeMin=1,rangeMax=2,thresh 1.90, thresh ineqal: gt, the weighted error is 0.600
+split: dim 0,j=10, rangeMin=1,rangeMax=2,thresh 2.00, thresh ineqal: lt, the weighted error is 0.600
+split: dim 0,j=10, rangeMin=1,rangeMax=2,thresh 2.00, thresh ineqal: gt, the weighted error is 0.400
+split: dim 1,j=-1, rangeMin=1,rangeMax=2,thresh 0.89, thresh ineqal: lt, the weighted error is 0.400
+split: dim 1,j=-1, rangeMin=1,rangeMax=2,thresh 0.89, thresh ineqal: gt, the weighted error is 0.600
+split: dim 1,j=0, rangeMin=1,rangeMax=2,thresh 1.00, thresh ineqal: lt, the weighted error is 0.200
+split: dim 1,j=0, rangeMin=1,rangeMax=2,thresh 1.00, thresh ineqal: gt, the weighted error is 0.800
+split: dim 1,j=1, rangeMin=1,rangeMax=2,thresh 1.11, thresh ineqal: lt, the weighted error is 0.200
+split: dim 1,j=1, rangeMin=1,rangeMax=2,thresh 1.11, thresh ineqal: gt, the weighted error is 0.800
+split: dim 1,j=2, rangeMin=1,rangeMax=2,thresh 1.22, thresh ineqal: lt, the weighted error is 0.200
+split: dim 1,j=2, rangeMin=1,rangeMax=2,thresh 1.22, thresh ineqal: gt, the weighted error is 0.800
+split: dim 1,j=3, rangeMin=1,rangeMax=2,thresh 1.33, thresh ineqal: lt, the weighted error is 0.200
+split: dim 1,j=3, rangeMin=1,rangeMax=2,thresh 1.33, thresh ineqal: gt, the weighted error is 0.800
+split: dim 1,j=4, rangeMin=1,rangeMax=2,thresh 1.44, thresh ineqal: lt, the weighted error is 0.200
+split: dim 1,j=4, rangeMin=1,rangeMax=2,thresh 1.44, thresh ineqal: gt, the weighted error is 0.800
+split: dim 1,j=5, rangeMin=1,rangeMax=2,thresh 1.55, thresh ineqal: lt, the weighted error is 0.200
+split: dim 1,j=5, rangeMin=1,rangeMax=2,thresh 1.55, thresh ineqal: gt, the weighted error is 0.800
+split: dim 1,j=6, rangeMin=1,rangeMax=2,thresh 1.66, thresh ineqal: lt, the weighted error is 0.400
+split: dim 1,j=6, rangeMin=1,rangeMax=2,thresh 1.66, thresh ineqal: gt, the weighted error is 0.600
+split: dim 1,j=7, rangeMin=1,rangeMax=2,thresh 1.77, thresh ineqal: lt, the weighted error is 0.400
+split: dim 1,j=7, rangeMin=1,rangeMax=2,thresh 1.77, thresh ineqal: gt, the weighted error is 0.600
+split: dim 1,j=8, rangeMin=1,rangeMax=2,thresh 1.88, thresh ineqal: lt, the weighted error is 0.400
+split: dim 1,j=8, rangeMin=1,rangeMax=2,thresh 1.88, thresh ineqal: gt, the weighted error is 0.600
+split: dim 1,j=9, rangeMin=1,rangeMax=2,thresh 1.99, thresh ineqal: lt, the weighted error is 0.400
+split: dim 1,j=9, rangeMin=1,rangeMax=2,thresh 1.99, thresh ineqal: gt, the weighted error is 0.600
+split: dim 1,j=10, rangeMin=1,rangeMax=2,thresh 2.10, thresh ineqal: lt, the weighted error is 0.600
+split: dim 1,j=10, rangeMin=1,rangeMax=2,thresh 2.10, thresh ineqal: gt, the weighted error is 0.400
+bestStump:--------分类误差最小时，其所对应的分类阈值，分类方式，第一个特征值（最佳决策树的信息----因为0.2最先出现）
+ {'thresh': 1.3, 'ineq': 'lt', 'dim': 0}
+minError:-------最小分类误差
+ [[ 0.2]]
+bestClasEst:---------分类误差最小时，其所对应的分类结果
+ [[-1.]
+ [ 1.]
+ [-1.]
+ [-1.]
+ [ 1.]]
+[Finished in 0.7s]

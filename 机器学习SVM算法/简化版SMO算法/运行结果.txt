@@ -1,0 +1,1291 @@
+ough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+iter: 3 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 19
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 20
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 21
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 22
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 23
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 24
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 25
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 26
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 27
+j not moving enough
+iter: 27 i:29, pairs changed 1
+iter: 27 i:52, pairs changed 2
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iter: 2 i:29, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+iter: 0 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+iter: 2 i:29, pairs changed 1
+j not moving enough
+iteration number: 0
+iter: 0 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+iter: 6 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+iter: 3 i:29, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+iter: 6 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iter: 1 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 19
+j not moving enough
+j not moving enough
+iter: 19 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+iter: 18 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+iter: 3 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iter: 1 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+iter: 2 i:10, pairs changed 1
+iter: 2 i:29, pairs changed 2
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+iter: 3 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+L==H
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+iter: 16 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+iter: 10 i:10, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+iteration number: 19
+j not moving enough
+j not moving enough
+iteration number: 20
+j not moving enough
+j not moving enough
+iteration number: 21
+j not moving enough
+j not moving enough
+iteration number: 22
+j not moving enough
+j not moving enough
+iteration number: 23
+j not moving enough
+j not moving enough
+iteration number: 24
+j not moving enough
+j not moving enough
+iteration number: 25
+j not moving enough
+iter: 25 i:52, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+iter: 9 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iter: 1 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iter: 3 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 8
+iter: 8 i:10, pairs changed 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+j not moving enough
+iteration number: 4
+iter: 4 i:14, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+iteration number: 19
+j not moving enough
+j not moving enough
+iteration number: 20
+j not moving enough
+j not moving enough
+iteration number: 21
+j not moving enough
+j not moving enough
+iteration number: 22
+j not moving enough
+j not moving enough
+iteration number: 23
+j not moving enough
+j not moving enough
+iteration number: 24
+j not moving enough
+j not moving enough
+iteration number: 25
+j not moving enough
+j not moving enough
+iteration number: 26
+j not moving enough
+j not moving enough
+iteration number: 27
+j not moving enough
+j not moving enough
+iteration number: 28
+j not moving enough
+j not moving enough
+iteration number: 29
+j not moving enough
+j not moving enough
+iteration number: 30
+j not moving enough
+j not moving enough
+iteration number: 31
+j not moving enough
+j not moving enough
+iteration number: 32
+j not moving enough
+j not moving enough
+iteration number: 33
+j not moving enough
+j not moving enough
+iteration number: 34
+j not moving enough
+j not moving enough
+iteration number: 35
+iter: 35 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+iteration number: 1
+j not moving enough
+iteration number: 2
+j not moving enough
+iteration number: 3
+j not moving enough
+iteration number: 4
+j not moving enough
+iteration number: 5
+j not moving enough
+iteration number: 6
+j not moving enough
+iteration number: 7
+j not moving enough
+iteration number: 8
+j not moving enough
+iteration number: 9
+j not moving enough
+iteration number: 10
+j not moving enough
+iteration number: 11
+j not moving enough
+iteration number: 12
+j not moving enough
+iteration number: 13
+j not moving enough
+iteration number: 14
+j not moving enough
+iteration number: 15
+j not moving enough
+iteration number: 16
+j not moving enough
+iteration number: 17
+j not moving enough
+iteration number: 18
+j not moving enough
+iteration number: 19
+j not moving enough
+iteration number: 20
+j not moving enough
+iteration number: 21
+j not moving enough
+iteration number: 22
+j not moving enough
+iteration number: 23
+j not moving enough
+iteration number: 24
+j not moving enough
+iteration number: 25
+j not moving enough
+iteration number: 26
+iter: 26 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+iter: 5 i:14, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+iter: 5 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+iter: 14 i:10, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+iter: 18 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+iter: 8 i:52, pairs changed 1
+iteration number: 0
+iter: 0 i:10, pairs changed 1
+j not moving enough
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+iter: 5 i:52, pairs changed 1
+j not moving enough
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+iteration number: 19
+j not moving enough
+j not moving enough
+iteration number: 20
+j not moving enough
+iter: 20 i:57, pairs changed 1
+iteration number: 0
+j not moving enough
+j not moving enough
+iteration number: 1
+j not moving enough
+j not moving enough
+iteration number: 2
+j not moving enough
+j not moving enough
+iteration number: 3
+j not moving enough
+j not moving enough
+iteration number: 4
+j not moving enough
+j not moving enough
+iteration number: 5
+j not moving enough
+j not moving enough
+iteration number: 6
+j not moving enough
+j not moving enough
+iteration number: 7
+j not moving enough
+j not moving enough
+iteration number: 8
+j not moving enough
+j not moving enough
+iteration number: 9
+j not moving enough
+j not moving enough
+iteration number: 10
+j not moving enough
+j not moving enough
+iteration number: 11
+j not moving enough
+j not moving enough
+iteration number: 12
+j not moving enough
+j not moving enough
+iteration number: 13
+j not moving enough
+j not moving enough
+iteration number: 14
+j not moving enough
+j not moving enough
+iteration number: 15
+j not moving enough
+j not moving enough
+iteration number: 16
+j not moving enough
+j not moving enough
+iteration number: 17
+j not moving enough
+j not moving enough
+iteration number: 18
+j not moving enough
+j not moving enough
+iteration number: 19
+j not moving enough
+j not moving enough
+iteration number: 20
+j not moving enough
+j not moving enough
+iteration number: 21
+j not moving enough
+j not moving enough
+iteration number: 22
+j not moving enough
+j not moving enough
+iteration number: 23
+j not moving enough
+j not moving enough
+iteration number: 24
+j not moving enough
+j not moving enough
+iteration number: 25
+j not moving enough
+j not moving enough
+iteration number: 26
+j not moving enough
+j not moving enough
+iteration number: 27
+j not moving enough
+j not moving enough
+iteration number: 28
+j not moving enough
+j not moving enough
+iteration number: 29
+j not moving enough
+j not moving enough
+iteration number: 30
+j not moving enough
+j not moving enough
+iteration number: 31
+j not moving enough
+j not moving enough
+iteration number: 32
+j not moving enough
+j not moving enough
+iteration number: 33
+j not moving enough
+j not moving enough
+iteration number: 34
+j not moving enough
+j not moving enough
+iteration number: 35
+j not moving enough
+j not moving enough
+iteration number: 36
+j not moving enough
+j not moving enough
+iteration number: 37
+j not moving enough
+j not moving enough
+iteration number: 38
+j not moving enough
+j not moving enough
+iteration number: 39
+j not moving enough
+j not moving enough
+iteration number: 40
+[[ 6.68278708]]------------求解出的b的值
+[[ 0.6         0.6         0.6         0.6         0.02407606  0.42349487
+   0.6         0.3937603   0.6         0.54618937  0.6         0.6         0.6       ]]----支持向量的值（alpha>0）
+(1, 13)------支持向量的个数13个
+[-0.752157, 6.53862] -1.0
+[-1.322371, 7.152853] -1.0
+[0.406704, 7.067335] 1.0
+[-2.46015, 6.866805] 1.0
+[0.850433, 6.920334] 1.0
+[-0.566606, 5.749003] 1.0
+[0.556921, 8.294984] 1.0
+[-0.397822, 8.058397] -1.0
+[0.099671, 6.835839] 1.0
+[1.785928, 7.718645] 1.0
+[1.015399, 7.571882] -1.0
+[-1.510047, 6.061992] -1.0
+[1.38861, 9.341997] -1.0----求出支持向量的点所对应的数据x,y   ，并得出该点对应的类别
+[Finished in 21.6s]-------因为为简单的SMO算法，所以运行的时间很长

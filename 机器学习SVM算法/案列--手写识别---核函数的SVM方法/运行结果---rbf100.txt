@@ -1,0 +1,9 @@
+llSet, iter: 11 i:1931, pairs changed 0
+j not moving enough
+fullSet, iter: 11 i:1932, pairs changed 0
+fullSet, iter: 11 i:1933, pairs changed 0
+iteration number: 12
+there are 182 Support Vectors
+the training error rate is: 0.014995
+the test error rate is: 0.031712
+[Finished in 383.2s]

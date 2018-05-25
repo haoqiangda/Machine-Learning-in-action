@@ -1,0 +1,20 @@
+fullSet, iter: 5 i:1923, pairs changed 0
+fullSet, iter: 5 i:1924, pairs changed 0
+L==H
+fullSet, iter: 5 i:1925, pairs changed 0
+fullSet, iter: 5 i:1926, pairs changed 0
+fullSet, iter: 5 i:1927, pairs changed 0
+fullSet, iter: 5 i:1928, pairs changed 0
+fullSet, iter: 5 i:1929, pairs changed 0
+fullSet, iter: 5 i:1930, pairs changed 0
+j not moving enough
+fullSet, iter: 5 i:1931, pairs changed 0
+j not moving enough
+fullSet, iter: 5 i:1932, pairs changed 0
+fullSet, iter: 5 i:1933, pairs changed 0----等于0，说明没有被优化
+iteration number: 6--------迭代次数为6次
+there are 202 Support Vectors
+the training error rate is: 0.000517
+the test error rate is: 0.009514
+a
+[Finished in 206.6s]

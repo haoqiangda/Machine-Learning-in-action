@@ -1,0 +1,17 @@
+ullSet, iter: 2 i:1925, pairs changed 0
+fullSet, iter: 2 i:1926, pairs changed 0
+fullSet, iter: 2 i:1927, pairs changed 0
+fullSet, iter: 2 i:1928, pairs changed 0
+fullSet, iter: 2 i:1929, pairs changed 0
+fullSet, iter: 2 i:1930, pairs changed 0
+L==H
+fullSet, iter: 2 i:1931, pairs changed 0
+L==H
+fullSet, iter: 2 i:1932, pairs changed 0
+fullSet, iter: 2 i:1933, pairs changed 0
+iteration number: 3  --------迭代次数为3次
+there are 112 Support Vectors-----------支持向量个数明显变小
+the training error rate is: 0.036711
+the test error rate is: 0.033827
+a
+[Finished in 149.5s]
